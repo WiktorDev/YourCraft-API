@@ -9,7 +9,7 @@ import ga.wiktor.dev.ycapi.API;
 public class Example {
     public static void main(String[] args) throws IOException {
         API api = new API();
-        System.out.println(api.getBlockbreak("wiktor330"));
+        System.out.println(api.getBlockbreak("nick"));
     }
 }
 ```
